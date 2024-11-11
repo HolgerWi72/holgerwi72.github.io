@@ -13,6 +13,6 @@ let custom_text_header = `
  | |_) | (_| || | (_| | |_) |  __/ | | | (_) |
  |_.__/ \__,_|/ |\__,_|_.__/ \___|_| |_|\___/ 
             |__/                              
-</pre> </div>
+  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
